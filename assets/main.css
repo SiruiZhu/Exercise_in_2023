@@ -29,11 +29,13 @@ div.tooltip {
 }
 
 .sw-chart {
-  width: 600px;
+  width: 100%;
+  height: auto;
 }
 
 .wo-chart {
-  width: 1000px;
+  width: 100%;
+  height: auto;
 }
 
 p.text {
