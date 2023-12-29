@@ -32,6 +32,10 @@ div.tooltip {
   width: 600px;
 }
 
+.wo-chart {
+  width: 1000px;
+}
+
 p.text {
   color: black;
   margin-top: 0px;
